@@ -39,7 +39,7 @@
    
   ],
   "require": {
-    "nesbot/carbon": "*",
+    "nesbot/carbon": "1/26/*",
     "paypal/rest-api-sdk-php": "*"
   },
   "autoload": {
